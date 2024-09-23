@@ -37,7 +37,7 @@ audiores_14E7B000_1B2F_52ED_41B5_E6EB5108DF00.mp3Url = media/audio_14C4C56B_1B31
 ### Title
 panorama_0072EB9F_0B41_E0E5_4199_9E61AC777D10.label = Ótica Lira
 panorama_0CAC4EC7_1B51_2F73_41BA_21A3F987A00C.label = Ótica Lira
-panorama_0C9FB429_1B51_333C_41AE_79CF39E4054F.label = Ótica Lira
+panorama_0F2CD5E7_1F0C_2DBF_41BD_70A36DE6BA88.label = Ótica Lira
 panorama_007284B7_0B41_E024_4190_9F2F6459084F.label = Ótica Lira
 panorama_0C9EA594_1B51_7D15_41B8_9DA5FD284CB6.label = Ótica Lira
 panorama_007511E6_0B41_A024_418E_48B4E7A1C3BB.label = Ótica Lira
